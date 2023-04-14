@@ -1,3 +1,5 @@
+/* 정확도 문제로 탈락 */
+
 let s1 = "3people unFollowed me";
 let s2 = "for the last week";
 
