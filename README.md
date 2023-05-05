@@ -1,6 +1,6 @@
-#JavaScript 알고리즘 문제풀이
+# JavaScript 알고리즘 문제풀이
 
-##커밋 컨벤션
+## 커밋 컨벤션
 
 ```
 - [💯풀이] : 문제를 풀었을 때
@@ -9,12 +9,12 @@
 - [🎸기타] : 문제풀이 이외의 일을 했을 때
 ```
 
-##프로젝트 세팅
+## 프로젝트 세팅
 
-###nodemon
+### nodemon
 
 https://www.npmjs.com/package/nodemon
 
-###gitignore
+### gitignore
 
 https://www.toptal.com/developers/gitignore
